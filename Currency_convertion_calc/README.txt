@@ -9,3 +9,5 @@ The following documents are located at these addresses:
 Notes: 
 1. Usually bugs are logged in Jira
 2. There are pictures for each bug in the "Screenshot" folder
+
+
